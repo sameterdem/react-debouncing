@@ -1,0 +1,25 @@
+{
+  "name": "react-debouncing",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samet ERDEM",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "repository": {
+    "url": "https://github.com/sameterdem/react-debouncing"
+  },
+  "keywords": [
+    "debounce",
+    "react debounce",
+    "react simple debounce"
+  ],
+  "dependencies": {
+    "prettier": "^1.18.2"
+  }
+}
