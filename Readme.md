@@ -21,13 +21,13 @@ class Debounce extends Component {
     this.setState({
       count: this.state.count + 1,
     });
-  });
+  }, 500);
 
   decrement = debounce(() => {
     this.setState({
       count: this.state.count - 1,
     });
-  });
+  }, 500);
 
   render() {
     return (
